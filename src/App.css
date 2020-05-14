@@ -1,0 +1,46 @@
+.container {
+  margin: 40px auto;
+}
+.card img {
+  height: 50%;
+  width: 80%;
+  margin: auto;
+}
+h4 {
+  text-align: center;
+}
+.card p {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+.highlighted-text {
+  color: #007bff;
+}
+*:focus {
+  outline: 0;
+  outline: none;
+}
+.carousal-container {
+  margin: 40px auto;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: black !important;
+  font-size: 30px !important;
+}
+.slick-slide .client-pic {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.slick-slide p {
+  margin: auto 40px;
+  font-family: "Baloo Da 2", cursive;
+}
+.client-firm-logo {
+  margin: 15px 40px;
+  width: 60px;
+  height: 30px;
+}
